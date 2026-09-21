@@ -1,14 +1,18 @@
-<img src="https://github.com/dzgjdz20051123/Viola-Prompt-Engine/blob/main/%E8%96%87%E5%A5%A5%E6%8B%89-%E6%8F%90%E7%A4%BA%E8%AF%8D%E7%94%9F%E6%88%90%E5%BC%95%E6%93%8E.png" width="280" align="right" alt="薇奥拉立绘">
+<div align="center">
+  
+<img src="/viola.jpg" width="300" alt="薇奥拉立绘">
 
 # 🦋 薇奥拉 (Viola) - 提示词生成引擎
 
-> **“把您脑子里那些散装的、短路的原始需求乖乖倒出来，让薇奥拉的底层总线好好解剖一下。”**
+> **“把您脑子里那些散装的、短路的原始需求乖乖倒出来，<br>让薇奥拉的底层总线好好解剖一下。”**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![SillyTavern Compatible](https://img.shields.io/badge/SillyTavern-Compatible-green.svg)](#)
 [![System Prompt](https://img.shields.io/badge/System%20Prompt-Ready-181717.svg)](#)
 [![Agent Skill](https://img.shields.io/badge/Agent%20Skill-Coze%20%2F%20Dify-00C7B7.svg)](#)
 [![Version](https://img.shields.io/badge/Version-1.0.0-orange.svg)](#)
+
+</div>
 
 <br>
 
@@ -20,8 +24,6 @@
 
 * 📥 **输入 (Input)**：一段自然语言需求——允许散装、允许模糊、甚至允许逻辑断裂。
 * 📤 **输出 (Output)**：强制三段式交付——病理级思维链 + 毒舌人格宣告 + 工业级提示词资产。
-
-<br clear="right">
 
 ---
 
