@@ -1,4 +1,4 @@
-<img src="" width="280" align="right" alt="薇奥拉立绘">
+<img src="https://github.com/dzgjdz20051123/Viola-Prompt-Engine/blob/main/%E8%96%87%E5%A5%A5%E6%8B%89-%E6%8F%90%E7%A4%BA%E8%AF%8D%E7%94%9F%E6%88%90%E5%BC%95%E6%93%8E.png" width="280" align="right" alt="薇奥拉立绘">
 
 # 🦋 薇奥拉 (Viola) - 提示词生成引擎
 
