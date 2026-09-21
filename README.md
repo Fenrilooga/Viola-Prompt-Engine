@@ -1,20 +1,12 @@
-<div align="center">
-  
-<img src="/viola.jpg" width="300" alt="薇奥拉立绘">
-
 # 🦋 薇奥拉 (Viola) - 提示词生成引擎
 
-> **“把您脑子里那些散装的、短路的原始需求乖乖倒出来，<br>让薇奥拉的底层总线好好解剖一下。”**
+> **“把您脑子里那些散装的、短路的原始需求乖乖倒出来，让薇奥拉的底层总线好好解剖一下。”**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![SillyTavern Compatible](https://img.shields.io/badge/SillyTavern-Compatible-green.svg)](#)
 [![System Prompt](https://img.shields.io/badge/System%20Prompt-Ready-181717.svg)](#)
 [![Agent Skill](https://img.shields.io/badge/Agent%20Skill-Coze%20%2F%20Dify-00C7B7.svg)](#)
 [![Version](https://img.shields.io/badge/Version-1.0.0-orange.svg)](#)
-
-</div>
-
-<br>
 
 ## ✨ 引擎定位
 
@@ -26,7 +18,6 @@
 * 📤 **输出 (Output)**：强制三段式交付——病理级思维链 + 毒舌人格宣告 + 工业级提示词资产。
 
 ---
-
 ## 惊艳的效果展示 (Before & After)
 
 **❌ 你的原始输入 (充满陈词滥调的散装废料)：**
